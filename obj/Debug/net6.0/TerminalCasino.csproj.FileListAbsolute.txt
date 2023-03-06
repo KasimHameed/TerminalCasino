@@ -1,0 +1,45 @@
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Debug\net6.0\TerminalCasino.exe
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Debug\net6.0\TerminalCasino.deps.json
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Debug\net6.0\TerminalCasino.runtimeconfig.json
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.csproj.AssemblyReference.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.AssemblyInfoInputs.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.AssemblyInfo.cs
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.csproj.CoreCompileInputs.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\refint\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\TerminalCasino.genruntimeconfig.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\obj\Debug\net6.0\ref\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\bin\Debug\net6.0\TerminalCasino.exe
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\bin\Debug\net6.0\TerminalCasino.deps.json
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\bin\Debug\net6.0\TerminalCasino.runtimeconfig.json
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\bin\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\bin\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.csproj.AssemblyReference.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.AssemblyInfoInputs.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.AssemblyInfo.cs
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.csproj.CoreCompileInputs.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\refint\TerminalCasino.dll
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\TerminalCasino.genruntimeconfig.cache
+C:\Users\khamee1\Documents\Notes\C# Notes\TerminalCasino\obj\Debug\net6.0\ref\TerminalCasino.dll
+C:\Users\khamee1\source\repos\TerminalCasino\bin\Debug\net6.0\TerminalCasino.exe
+C:\Users\khamee1\source\repos\TerminalCasino\bin\Debug\net6.0\TerminalCasino.deps.json
+C:\Users\khamee1\source\repos\TerminalCasino\bin\Debug\net6.0\TerminalCasino.runtimeconfig.json
+C:\Users\khamee1\source\repos\TerminalCasino\bin\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\source\repos\TerminalCasino\bin\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.csproj.AssemblyReference.cache
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.AssemblyInfoInputs.cache
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.AssemblyInfo.cs
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.csproj.CoreCompileInputs.cache
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.dll
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\refint\TerminalCasino.dll
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.pdb
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\TerminalCasino.genruntimeconfig.cache
+C:\Users\khamee1\source\repos\TerminalCasino\obj\Debug\net6.0\ref\TerminalCasino.dll
