@@ -1,5 +1,0 @@
-C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Release\net6.0\publish\MyApp.exe
-C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Release\net6.0\publish\MyApp.dll
-C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Release\net6.0\publish\MyApp.deps.json
-C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Release\net6.0\publish\MyApp.runtimeconfig.json
-C:\Users\khamee1\Documents\Notes\C# Notes\MyApp\bin\Release\net6.0\publish\MyApp.pdb
